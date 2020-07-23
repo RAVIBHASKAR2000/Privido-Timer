@@ -1,0 +1,23 @@
+body{
+    background-color: floralwhite;
+}
+.heading{
+    color: #4d9e1e;
+  
+    text-align: center;
+}
+
+.timer{
+    text-align: center;
+    font-size: 300%;
+    font-weight: bold;
+}
+
+.timer button{
+    background-color: indigo;
+    padding: 1%;
+    border-radius: 8px;
+    font-size: 50%;
+    color: lemonchiffon;
+    cursor: pointer;
+}
